@@ -1,0 +1,41 @@
+Website,https://asu-molecular-sciences-cloud-lab.github.io/bomb_calorimetry_v2/ 
+Simulated Calorimeter,Parr #9123
+Sample Name,Benzoic Acid
+Formula,C7H6O2
+Molecular Weight (g/mol),122.113
+Sample Weight (g),2.0000
+Water Temp (deg C),22.50
+Room Temp (deg C),23.19
+Water Volume (L),2.0
+Wire Before (g),0.021
+Wire After (g),0.018
+=====,=====
+Time (s), Temperature (C)
+0.00,22.50
+60.00,22.50
+120.00,22.50
+180.00,22.50
+240.00,22.50
+300.00,22.50
+315.00,22.54
+330.00,23.05
+345.00,23.81
+360.00,24.56
+375.00,25.22
+390.00,25.76
+405.00,26.18
+420.00,26.51
+435.00,26.75
+450.00,26.93
+465.00,27.06
+480.00,27.16
+540.00,27.33
+600.00,27.38
+660.00,27.36
+720.00,27.36
+780.00,27.35
+840.00,27.34
+900.00,27.34
+960.00,27.33
+1020.00,27.33
+1080.00,27.32
